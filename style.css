@@ -142,7 +142,7 @@ img.hamburger{
 }
 
 .arrow{
-    position: fixed;
+    position: absolute;
     top:17.5rem;
     
 }
